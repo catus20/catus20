@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology and traveling.
 - 🌱 I’m currently studying computer science
 - 💞️ I’m looking to collaborate on code projects
-- 📫 How to reach me e-emryir@iskule.no
+- 📫 How to reach me catus@yirmi.tech
 
 <!---
 catus20/catus20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
